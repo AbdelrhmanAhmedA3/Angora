@@ -1,0 +1,9 @@
+@media (max-width: 991.98px) { 
+    .navbar-collapse{
+        position: absolute;
+        top: 106%;
+        align-items: center;
+        background-color: white;
+        width: 100%;
+    }
+ }
