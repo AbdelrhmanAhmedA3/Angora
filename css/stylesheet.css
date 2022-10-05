@@ -138,6 +138,9 @@ box-shadow:0 1px 1px 0 rgb(0 0 0 / 6%), 0 2px 5px 0 rgb(0 0 0 / 20%);
 .container-fluid{
     z-index: 999999999999 !important;
 }
+.bgnav{
+    background-color: white;
+}
 header .navbar-light .navbar-nav .nav-link.active{
     color: var(--main-color);
 }

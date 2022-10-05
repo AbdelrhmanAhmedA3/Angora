@@ -1,12 +1,8 @@
 
-$(".parents li").eq(0).css({backgroundColor : "red"})
+$(".parents li").eq(0).css({backgroundColor : "#ff6a39"})
 $(".parents li").eq(1).css({backgroundColor : "teal"})
-$(".parents li").eq(2).css({backgroundColor : "black"})
-$(".parents li").eq(3).css({backgroundColor : "pink"})
-$(".parents li").eq(4).css({backgroundColor : "red"})
-$(".parents li").eq(0).css({backgroundColor : "red"})
-$(".parents li").eq(0).css({backgroundColor : "red"})
-$(".parents li").eq(0).css({backgroundColor : "red"})
+$(".parents li").eq(2).css({backgroundColor : "pink"})
+// $(".parents li").eq(3).css({backgroundColor : "rgb(104, 102, 102)"})
 
 
 
